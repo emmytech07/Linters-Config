@@ -1,0 +1,23 @@
+{
+  "name": "linters-config",
+  "version": "1.0.0",
+  "description": "Configuration on how to use and config linters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmytech07/Linters-Config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmytech07/Linters-Config/issues"
+  },
+  "homepage": "https://github.com/emmytech07/Linters-Config#readme",
+  "devDependencies": {
+    "hint": "^6.2.0"
+  }
+}
